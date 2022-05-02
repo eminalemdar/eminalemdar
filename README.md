@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/emin-alemdar/"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
 </p>
 
-Hello, I'm [Emin Alemdar](https://twitter.com/alemdar_emin), working as Cloud and DevOps Consultant. I am an **AWS Community Builder** in ***Containers*** category.
+Hello, I'm [Emin Alemdar](https://twitter.com/alemdar_emin), working as Cloud and DevOps Consultant. I am an **AWS Community Builder** in ***Containers*** category. I am also ***HashiCorp Ambassador*** in the Open Source Community and ***Calico Big Cats Ambassador***.
 
 
 **🔭 I’m currently working on**
@@ -23,4 +23,9 @@ Hello, I'm [Emin Alemdar](https://twitter.com/alemdar_emin), working as Cloud an
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Way of HCI — Harvester](https://blog.kloia.com/new-way-of-hci-harvester-a2440002a628?source=rss-b3bf23b97abd------2)
+- [Karpenter Cluster Autoscaler](https://blog.kloia.com/karpenter-cluster-autoscaler-76d7f7ec0d0e?source=rss-b3bf23b97abd------2)
+- [Using Amazon’s Kubernetes Distribution Everywhere with Amazon EKS Distro](https://blog.kloia.com/using-amazons-kubernetes-distribution-everywhere-with-amazon-eks-distro-5ee7c00326d5?source=rss-b3bf23b97abd------2)
+- [Run Amazon ECS Anywhere!](https://blog.kloia.com/run-amazon-ecs-anywhere-fa5007690fcd?source=rss-b3bf23b97abd------2)
+- [Run Amazon EKS Anywhere!](https://blog.kloia.com/run-amazon-eks-anywhere-523b0c49b4ab?source=rss-b3bf23b97abd------2)
 <!-- BLOG-POST-LIST:END -->
