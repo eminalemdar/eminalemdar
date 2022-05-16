@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/emin-alemdar/"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
 </p>
 
-Hello, I'm [Emin Alemdar](https://twitter.com/alemdar_emin), working as Cloud and DevOps Consultant. I am an **AWS Community Builder** in ***Containers*** category. I am also ***HashiCorp Ambassador*** in the Open Source Community and ***Calico Big Cats Ambassador***.
+Hello, I'm [Emin Alemdar](https://twitter.com/alemdar_emin), working as Cloud Native Engineer at [Container Solutions](https://www.container-solutions.com). I am an **AWS Community Builder** in ***Containers*** category. I am also ***HashiCorp Ambassador*** in the Open Source Community and ***Calico Big Cats Ambassador***.
 
 
 **🔭 I’m currently working on**
