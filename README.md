@@ -23,9 +23,9 @@ Hello, I'm [Emin Alemdar](https://twitter.com/alemdar_emin), working as Cloud Na
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Manage Your AWS Resources from Kubernetes with ACK](https://eminalemdar.medium.com/manage-your-aws-resources-from-kubernetes-with-ack-3cf06a4b0770?source=rss-b3bf23b97abd------2)
 - [New Way of HCI — Harvester](https://blog.kloia.com/new-way-of-hci-harvester-a2440002a628?source=rss-b3bf23b97abd------2)
 - [Karpenter Cluster Autoscaler](https://blog.kloia.com/karpenter-cluster-autoscaler-76d7f7ec0d0e?source=rss-b3bf23b97abd------2)
 - [Using Amazon’s Kubernetes Distribution Everywhere with Amazon EKS Distro](https://blog.kloia.com/using-amazons-kubernetes-distribution-everywhere-with-amazon-eks-distro-5ee7c00326d5?source=rss-b3bf23b97abd------2)
 - [Run Amazon ECS Anywhere!](https://blog.kloia.com/run-amazon-ecs-anywhere-fa5007690fcd?source=rss-b3bf23b97abd------2)
-- [Run Amazon EKS Anywhere!](https://blog.kloia.com/run-amazon-eks-anywhere-523b0c49b4ab?source=rss-b3bf23b97abd------2)
 <!-- BLOG-POST-LIST:END -->
