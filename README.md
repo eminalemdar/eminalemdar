@@ -23,9 +23,9 @@ Hello, I'm [Emin Alemdar](https://twitter.com/alemdar_emin), working as Cloud Na
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Multi Cluster / Multi Cloud Strategy Really a Nightmare?](https://eminalemdar.medium.com/is-multi-cluster-multi-cloud-strategy-really-a-nightmare-e08e3e417b2e?source=rss-b3bf23b97abd------2)
+- [Reversing the Workflow with External Secrets Operator’s Push Secret Feature](https://eminalemdar.medium.com/reversing-the-workflow-with-external-secrets-operators-push-secret-feature-f2a64f3db748?source=rss-b3bf23b97abd------2)
 - [External Secrets Operator Integration with HashiCorp Vault](https://eminalemdar.medium.com/external-secrets-operator-integration-with-hashicorp-vault-aff3f956237b?source=rss-b3bf23b97abd------2)
 - [Cloud Native Secret Management with External Secrets Operator](https://eminalemdar.medium.com/cloud-native-secret-management-with-external-secrets-operator-2912f41f9c49?source=rss-b3bf23b97abd------2)
 - [Manage Your AWS Resources from Kubernetes with ACK](https://eminalemdar.medium.com/manage-your-aws-resources-from-kubernetes-with-ack-3cf06a4b0770?source=rss-b3bf23b97abd------2)
-- [New Way of HCI — Harvester](https://blog.kloia.com/new-way-of-hci-harvester-a2440002a628?source=rss-b3bf23b97abd------2)
-- [Karpenter Cluster Autoscaler](https://blog.kloia.com/karpenter-cluster-autoscaler-76d7f7ec0d0e?source=rss-b3bf23b97abd------2)
 <!-- BLOG-POST-LIST:END -->
