@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/emin-alemdar/"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
 </p>
 
-Hello, I'm [Emin Alemdar](https://twitter.com/alemdar_emin), working as Cloud Native Engineer at [Container Solutions](https://www.container-solutions.com). I am an **AWS Community Builder** in ***Containers*** category. I am also ***HashiCorp Ambassador*** in the Open Source Community and ***Calico Big Cats Ambassador***.
+Hello, I'm [Emin Alemdar](https://twitter.com/alemdar_emin), working as Cloud Native Engineer. I am a **CNCF Ambassador** and an **AWS Community Builder** in ***Containers*** category. I am also ***HashiCorp Ambassador*** in the Open Source Community and ***Calico Big Cats Ambassador***.
 
 
 **🔭 I’m currently working on**
@@ -14,7 +14,7 @@ Hello, I'm [Emin Alemdar](https://twitter.com/alemdar_emin), working as Cloud Na
 </p>
 
 **Certificates**
-<p align="left"><img src="assets/certificates/community-builder.png" alt="aws" width="100" height="70"/> <img src="assets/certificates/hashicorp-ambassador-2022.png" alt="hashicorp" width="70" height="70"/> <img src="assets/certificates/Calico_Big_Cat_logo.png" alt="hashicorp" width="70" height="70"/> <img src="assets/certificates/cka.png" alt="cka" width="70" height="70"/> <img src="assets/certificates/cks.png" alt="cka" width="70" height="70"/> <img src="assets/certificates/AWS-DevOps.png" alt="devops" width="70" height="70"/> <img src="assets/certificates/AWS-sap.png" alt="sap" width="70" height="70"/> <img src="assets/certificates/AWS-saa.png" alt="saa" width="70" height="70"/> <img src="assets/certificates/AWS-developer.png" alt="developer" width="70" height="70"/> <img src="assets/certificates/AWS-sysops.png" alt="sysops" width="70" height="70"/> <img src="assets/certificates/rancher.svg" alt="rancher" width="70" height="70"/> <img src="assets/certificates/terraform-chip.png" alt="terraform" width="70" height="70"/> <img src="assets/certificates/terraform-associate.png" alt="terraform" width="70" height="70"/>
+<p align="left"><img src="assets/certificates/cncf-ambassador-spring-2023.png" alt="cncf" width="70" height="70"/><img src="assets/certificates/community-builder.png" alt="aws" width="100" height="70"/> <img src="assets/certificates/hashicorp-ambassador-2023.png" alt="hashicorp" width="70" height="70"/> <img src="assets/certificates/Calico_Big_Cat_logo.png" alt="hashicorp" width="70" height="70"/> <img src="assets/certificates/cka.png" alt="cka" width="70" height="70"/> <img src="assets/certificates/cks.png" alt="cka" width="70" height="70"/> <img src="assets/certificates/AWS-DevOps.png" alt="devops" width="70" height="70"/> <img src="assets/certificates/AWS-sap.png" alt="sap" width="70" height="70"/> <img src="assets/certificates/AWS-saa.png" alt="saa" width="70" height="70"/> <img src="assets/certificates/AWS-developer.png" alt="developer" width="70" height="70"/> <img src="assets/certificates/AWS-sysops.png" alt="sysops" width="70" height="70"/> <img src="assets/certificates/rancher.svg" alt="rancher" width="70" height="70"/> <img src="assets/certificates/terraform-chip.png" alt="terraform" width="70" height="70"/> <img src="assets/certificates/terraform-associate.png" alt="terraform" width="70" height="70"/>
 </p>
 
 **Learning new things every day!**
