@@ -23,9 +23,9 @@ Hello, I'm [Emin Alemdar](https://twitter.com/alemdar_emin), working as a Soluti
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Network Policies with VPC CNI on Amazon EKS](https://eminalemdar.medium.com/network-policies-with-vpc-cni-on-amazon-eks-c6993d6ae596?source=rss-b3bf23b97abd------2)
 - [Policy Management in Kubernetes is Changing](https://eminalemdar.medium.com/policy-management-in-kubernetes-is-changing-9d4808f548a0?source=rss-b3bf23b97abd------2)
 - [Is Multi Cluster / Multi Cloud Strategy Really a Nightmare?](https://eminalemdar.medium.com/is-multi-cluster-multi-cloud-strategy-really-a-nightmare-e08e3e417b2e?source=rss-b3bf23b97abd------2)
 - [Reversing the Workflow with External Secrets Operator’s Push Secret Feature](https://eminalemdar.medium.com/reversing-the-workflow-with-external-secrets-operators-push-secret-feature-f2a64f3db748?source=rss-b3bf23b97abd------2)
 - [External Secrets Operator Integration with HashiCorp Vault](https://eminalemdar.medium.com/external-secrets-operator-integration-with-hashicorp-vault-aff3f956237b?source=rss-b3bf23b97abd------2)
-- [Cloud Native Secret Management with External Secrets Operator](https://eminalemdar.medium.com/cloud-native-secret-management-with-external-secrets-operator-2912f41f9c49?source=rss-b3bf23b97abd------2)
 <!-- BLOG-POST-LIST:END -->
